@@ -31,3 +31,12 @@ command after creating git
 	*  });
     *
     */
+
+command after creating model 
+
+	a)git status
+	b)git add .
+	c) git commit -m "Created model -a"
+	d)git status
+	e)git push  
+	f)if not pushed follwed error ( git pull and then git push )
