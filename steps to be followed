@@ -1,0 +1,33 @@
+1)install api file via composer in xampp
+2)run these command 
+		composer 
+    a) git init
+    b) git status
+    c) git add README.md
+    d) git commit -m "Initial commit"
+    e) git remote add origin https://github.com/sharmaanand086/api.git
+	f) git push -u origin master
+
+Set your username:
+git config --global user.name "FIRST_NAME LAST_NAME"
+Set your email address:
+git config --global user.email "MY_NAME@example.com"
+
+
+command after creating git 
+
+1)  php artisan make:model Model/Product -a  // using -a create all (migration,controller,model)
+1)  php artisan make:model Model/Review -a
+
+1) php artisan route:list 
+
+    /* 
+    * Route::Resource('/products','ProductController'); 
+    *
+    * Route::apiResource('/products','ProductController');
+    *
+    * Route::group(['prefix'=>'products'],function(){
+	*	Route::apiResource('/{product}/reviews','ReviewController');
+	*  });
+    *
+    */
