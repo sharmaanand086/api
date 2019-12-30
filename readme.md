@@ -8,21 +8,21 @@
 </p>
 
 ## About Laravel
-
-#1)install api file via composer in xampp
-#2)run these command 
-	#	composer 
+                                          # how to connect git with local 
+# 1)install api file via composer in xampp
+# 2)run these command 
+	# composer 
    # a) git init
    # b) git status
   #  c) git add README.md
    # d) git commit -m "Initial commit"
    # e) git remote add origin https://github.com/sharmaanand086/api.git
-	#f) git push -u origin master
+	# f) git push -u origin master
 
-##Set your username:
-#git config --global user.name "FIRST_NAME LAST_NAME"
-##Set your email address:
-#git config --global user.email "MY_NAME@example.com"
+## Set your username:
+# git config --global user.name "FIRST_NAME LAST_NAME"
+## Set your email address:
+# git config --global user.email "MY_NAME@example.com"
 
 
 
