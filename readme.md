@@ -14,10 +14,10 @@
 ## Set your email address:
 # git config --global user.email "MY_NAME@example.com"
 
-##arfet every update in file or folder
-#git add .
-#git commit -m "example what you did "
-#git push
+    ##arfet every update in file or folder
+    #git add .
+    #git commit -m "example what you did "
+    #git push
 
 ## Contributing
 
