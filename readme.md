@@ -14,8 +14,11 @@
 ## Set your email address:
 # git config --global user.email "MY_NAME@example.com"
 
+##arfet every update in file or folder
+#git add .
+#git commit -m "example what you did "
+#git push
 
- 
 ## Contributing
 
 Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
